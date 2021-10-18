@@ -1,4 +1,4 @@
-# Bem Vindo(a) Desafio-frontend (React)
+# Bem Vindo(a) Desafio-Frontend (React)
 
 ## Estamos felizes que você escolheu fazer o nosso Desafio Frontend!
 
